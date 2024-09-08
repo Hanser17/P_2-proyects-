@@ -10,7 +10,7 @@ namespace P_2do
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Hanser ");
+            Console.WriteLine("Hola pimentel  ");
             Console.ReadLine();
         }
     }
